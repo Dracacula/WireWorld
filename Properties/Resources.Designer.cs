@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace V1.Properties {
+namespace WireWorld.Properties {
     using System;
     
     

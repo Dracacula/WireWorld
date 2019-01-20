@@ -7,7 +7,7 @@ using System.Text;
 using System.Windows.Forms;
 using System.IO;
 
-namespace V1
+namespace WireWorld
 {
     public partial class WireWorld : Form
     {
@@ -37,9 +37,9 @@ namespace V1
             InitializeComponent();
             timer1.Interval = 100;
 
-            _CA = new CellTypes[MAX_CELLS, MAX_CELLS];
-            _CB = new CellTypes[MAX_CELLS, MAX_CELLS];
-            _CC = _CA;
+            _CA = new CellTypes[MAX_CELLS, MAX_CELLS]; //create CellList A
+            _CB = new CellTypes[MAX_CELLS, MAX_CELLS]; //create CellList B
+            _CC = _CA; // current CellList = CellList A
         }
 
         private void OnPanelPaint(object sender, PaintEventArgs e)
@@ -66,7 +66,7 @@ namespace V1
                 for (int j = 0; j < MAX_CELLS; j++)
                 {
                     cellType = _CC[i, j];
-                    if (cellType.Equals(CellTypes.Conductor))
+                    if (cellType.Equals(CellTypes.Conductor)) //Wenn 
                     {
                         _br = Brushes.Yellow;
                     }
@@ -78,6 +78,7 @@ namespace V1
                     {
                         _br = Brushes.Blue;
                     }
+
                     if (cellType != CellTypes.Empty)
                     {
                         gr.FillRectangle(_br, i * CELL_SIZE + 5, j * CELL_SIZE + 5, (CELL_SIZE / 2), (CELL_SIZE / 2));

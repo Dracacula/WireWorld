@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace V1
+namespace WireWorld
 {
     partial class WireWorld
     {
@@ -16,6 +16,7 @@ namespace V1
 
                 for (int j = 0; j < MAX_CELLS; j++)
                 {
+                    
                     cellType = oldGrid[i, j];
                     if (cellType.Equals(CellTypes.ElectronHead))
                         newGrid[i, j] = CellTypes.ElectronTail;

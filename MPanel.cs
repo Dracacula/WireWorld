@@ -3,7 +3,7 @@ using System;
 using System.Windows.Forms;
 using System.Text;
 
-namespace V1
+namespace WireWorld
 {
   class MPanel : Panel
   {

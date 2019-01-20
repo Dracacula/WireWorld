@@ -17,3 +17,13 @@ E:\OneDrive - HTBL u. VA Bulme Graz Gösting\Schule 4AHEL\SwDev\Life\WireWorld\o
 E:\OneDrive - HTBL u. VA Bulme Graz Gösting\Schule 4AHEL\SwDev\Life\WireWorld\obj\Debug\WireWorld.csproj.CoreCompileInputs.cache
 E:\OneDrive - HTBL u. VA Bulme Graz Gösting\Schule 4AHEL\SwDev\Life\WireWorld\obj\Debug\V1.exe
 E:\OneDrive - HTBL u. VA Bulme Graz Gösting\Schule 4AHEL\SwDev\Life\WireWorld\obj\Debug\V1.pdb
+C:\Users\Dracacula\Desktop\GIT Repositorys\WireWorld\bin\Debug\V1.exe.config
+C:\Users\Dracacula\Desktop\GIT Repositorys\WireWorld\bin\Debug\V1.exe
+C:\Users\Dracacula\Desktop\GIT Repositorys\WireWorld\bin\Debug\V1.pdb
+C:\Users\Dracacula\Desktop\GIT Repositorys\WireWorld\obj\Debug\WireWorld.csprojAssemblyReference.cache
+C:\Users\Dracacula\Desktop\GIT Repositorys\WireWorld\obj\Debug\WireWorld.WireWorld.resources
+C:\Users\Dracacula\Desktop\GIT Repositorys\WireWorld\obj\Debug\V1.Properties.Resources.resources
+C:\Users\Dracacula\Desktop\GIT Repositorys\WireWorld\obj\Debug\WireWorld.csproj.GenerateResource.cache
+C:\Users\Dracacula\Desktop\GIT Repositorys\WireWorld\obj\Debug\WireWorld.csproj.CoreCompileInputs.cache
+C:\Users\Dracacula\Desktop\GIT Repositorys\WireWorld\obj\Debug\V1.exe
+C:\Users\Dracacula\Desktop\GIT Repositorys\WireWorld\obj\Debug\V1.pdb

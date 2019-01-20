@@ -1,6 +1,6 @@
 
 
-namespace V1
+namespace WireWorld
 {
     partial class WireWorld
     {
@@ -40,7 +40,7 @@ namespace V1
             this.loadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.clearToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.mode_btn = new System.Windows.Forms.Button();
-            this.m_panel = new V1.MPanel();
+            this.m_panel = new MPanel();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
