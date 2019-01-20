@@ -1,0 +1,9 @@
+C:\Users\Dracacula\OneDrive - HTBL u. VA Bulme Graz Gösting\Schule 4AHEL\SwDev\Life\Game of Life - Kopie\obj\Debug\Game of Life.csprojAssemblyReference.cache
+C:\Users\Dracacula\OneDrive - HTBL u. VA Bulme Graz Gösting\Schule 4AHEL\SwDev\Life\Game of Life - Kopie\obj\Debug\V1.WireWorld.resources
+C:\Users\Dracacula\OneDrive - HTBL u. VA Bulme Graz Gösting\Schule 4AHEL\SwDev\Life\Game of Life - Kopie\obj\Debug\V1.Properties.Resources.resources
+C:\Users\Dracacula\OneDrive - HTBL u. VA Bulme Graz Gösting\Schule 4AHEL\SwDev\Life\Game of Life - Kopie\obj\Debug\Game of Life.csproj.GenerateResource.cache
+C:\Users\Dracacula\OneDrive - HTBL u. VA Bulme Graz Gösting\Schule 4AHEL\SwDev\Life\Game of Life - Kopie\obj\Debug\Game of Life.csproj.CoreCompileInputs.cache
+C:\Users\Dracacula\OneDrive - HTBL u. VA Bulme Graz Gösting\Schule 4AHEL\SwDev\Life\Game of Life - Kopie\obj\Debug\V1.exe
+C:\Users\Dracacula\OneDrive - HTBL u. VA Bulme Graz Gösting\Schule 4AHEL\SwDev\Life\Game of Life - Kopie\obj\Debug\V1.pdb
+C:\Users\Dracacula\OneDrive - HTBL u. VA Bulme Graz Gösting\Schule 4AHEL\SwDev\Life\Game of Life - Kopie\bin\Debug\V1.exe
+C:\Users\Dracacula\OneDrive - HTBL u. VA Bulme Graz Gösting\Schule 4AHEL\SwDev\Life\Game of Life - Kopie\bin\Debug\V1.pdb
